@@ -1,0 +1,27 @@
+{
+  "name": "bek_todo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/index.js",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxKarpeychik/lab_web/tree/main/bek_todo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaxKarpeychik/lab_web/tree/main/bek_todo/issues"
+  },
+  "homepage": "https://github.com/MaxKarpeychik/lab_web/tree/main/bek_todo#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "mongoose": "^6.3.0"
+  }
+}
